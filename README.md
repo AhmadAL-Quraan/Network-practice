@@ -13,7 +13,7 @@ This is a general practice of computer networking.
 
 # Run
 
-* Run the practice throw localhost using any http server ex: `python -m http.server 42`.
+* Run the code practice throw localhost using any http server ex: `python -m http.server 42`.
 
 
 # Notes
